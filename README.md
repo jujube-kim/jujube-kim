@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Jujube
+# Jujube Hi
 
 <!--
 **jujube-kim/jujube-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
